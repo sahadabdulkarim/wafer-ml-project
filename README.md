@@ -1,3 +1,14 @@
+# ML for Semiconductor Wafer Analysis
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
+![ML](https://img.shields.io/badge/Machine%20Learning-IsolationForest%20%7C%20KMeans-blueviolet)
+
+
+
 # ML for Semiconductor Wafer Data Analysis
 
 This project shows an end-to-end workflow for analyzing semiconductor wafer test data.  
