@@ -1,0 +1,4 @@
+wafer_name,device_name,vth,leakage
+W01,DIE001,0.72,1.2e-9
+W01,DIE002,0.69,8.5e-10
+W02,DIE001,0.75,1.5e-9

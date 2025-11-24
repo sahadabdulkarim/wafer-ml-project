@@ -1,0 +1,17 @@
+# Virtual env
+.venv/
+
+# Python cache
+__pycache__/
+
+# Jupyter stuff
+.ipynb_checkpoints/
+
+# SQLite DB
+wafer_data.db
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+src/figures/*.png
