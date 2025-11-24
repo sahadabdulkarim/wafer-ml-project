@@ -156,8 +156,5 @@ Interpretation:
 
 -------------------------------------
 
-## License
-
-MIT License.
 
 
